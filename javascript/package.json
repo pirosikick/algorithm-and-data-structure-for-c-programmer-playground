@@ -1,0 +1,16 @@
+{
+	"name": "javascript",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": {},
+	"private": true,
+	"devDependencies": {
+		"@babel/core": "^7.4.0",
+		"@babel/preset-env": "^7.4.2",
+		"@babel/preset-typescript": "^7.3.3",
+		"babel-jest": "^24.5.0",
+		"jest": "^24.5.0",
+		"prettier": "^1.16.4",
+		"typescript": "^3.3.4000"
+	}
+}
